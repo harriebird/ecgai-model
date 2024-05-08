@@ -1,6 +1,8 @@
 # ecgai-model
 ECG (electrocardiogram) classification using Artificial Neural Network.
 
+![Model View](img/model.png)
+
 ## Setup
 1. Clone this repository.
 2. Install [Python 3.11.9](https://www.python.org/downloads/).
